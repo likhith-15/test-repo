@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-from local
-=======
-from remote repository
->>>>>>> dcddbefd10b838906552cdd32d0f1b3ee5161b98
+
+local 
+
